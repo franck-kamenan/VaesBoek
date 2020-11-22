@@ -16,9 +16,21 @@ public class Age {
             System.out.println("You are an adult");
         } else {
 
-            System.out.println("You are a child");
+            if (age >= 10) {
 
-            keyboard.close();
+                System.out.println("You are an teenager");
+            } else {
+
+                if (age >= 2) {
+
+                    System.out.println("You are a child");
+                } else {
+
+                    System.out.println("you are a baby");
+                }
+            }
         }
+
+        keyboard.close();
     }
 }
