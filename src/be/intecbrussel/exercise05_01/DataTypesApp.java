@@ -4,25 +4,14 @@ public class DataTypesApp {
 
     public static void main(String[] args) {
 
-        boolean aBoolean = false;
-        char aCharacter = 'd';
-        byte aByte = 126;
-        short aShortInteger = 115;
-        int anInteger = 0b0101_1100;
-        long aLongInteger = 45631341L;
-        float aDecimalNumber = 1256.32F;
-        double aBigDecimalNumber = 12.365987451236;
+        int a = 5;
+        int b = ++a;
+        int c = 7;
+        int d = c++;
 
-        aByte = (byte) aShortInteger;
-        anInteger = aCharacter;
-
-        System.out.println(aBoolean);
-        System.out.println(aCharacter);
-        System.out.println(aByte);
-        System.out.println(aShortInteger);
-        System.out.println(anInteger);
-        System.out.println(aLongInteger);
-        System.out.println(aDecimalNumber);
-        System.out.println(aBigDecimalNumber);
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
     }
 }
