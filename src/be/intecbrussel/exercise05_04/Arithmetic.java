@@ -6,10 +6,13 @@ public class Arithmetic {
 
         int value1 = 5;
         int value2 = 3;
+        int value3 = 4;
 
-        int abs = (value1 > 9) ? value1 * 10 : value1 * 100;
-        System.out.println(abs);
-
-        System.out.println(((value1 > 9) ? "It is true": "it is false"));
+        System.out.println(((value1 < value2) ? value1: value2));
+        System.out.println(((value1 < value3) ? value1: value3));
+        System.out.println(((value2 < value1) ? value2: value1));
+        System.out.println(((value2 < value3) ? value2: value3));
+        System.out.println(((value3 < value1) ? value3: value1));
+        System.out.println(((value3 < value2) ? value3: value2));
     }
 }
