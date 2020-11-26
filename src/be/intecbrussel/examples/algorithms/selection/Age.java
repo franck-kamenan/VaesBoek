@@ -11,7 +11,7 @@ public class Age {
         System.out.println("Enter your age:");
         int age = keyboard.nextInt();
 
-        if (age >= 18) {
+        /*if (age >= 18) {
 
             System.out.println("You are an adult");
         } else if (age >= 10) {
@@ -23,7 +23,9 @@ public class Age {
         } else {
 
             System.out.println("you are a baby");
-        }
+        }*/
+
+        System.out.println((age >= 18)? "You are an adult": "You are a child");
 
         keyboard.close();
     }
