@@ -1,4 +1,4 @@
-package be.intecbrussel.examples.algorithms.selection;
+package be.intecbrussel.examples.algorithms.iteration;
 
 public class ForStatement {
 
