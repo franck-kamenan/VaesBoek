@@ -15,3 +15,7 @@ c
 3src/be/intecbrussel/exercise05_01/DataTypesApp.java,5\a\5a7a4d63c654342cb1c055a851db9ad6e90e2353
 a
 1src/be/intecbrussel/exercise05_04/Arithmetic.java,5\e\5ec81c5be4c40adcad89783701760762e948dce8
+b
+2src/be/intecbrussel/exercise05_12/PriorityApp.java,2\b\2b93f1b635e86b44b67de1e4dd5e20e3893c940e
+\
+,src/be/intecbrussel/exercise05_13/Scope.java,6\b\6b1dce8aa9e2dfcf646770fec64266dfe00216c0
