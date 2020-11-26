@@ -12,24 +12,39 @@ public class DaysInMonthSwitch {
         int month = keyboard.nextInt();
         int days = 0;
 
-        switch (month) {
+        while ( month < 1 || month > 12) {
 
-            default: days = 0; break;
-            case 2: days = 28; break;
-            case 4:
-            case 6:
-            case 9:
-            case 11: days = 30; break;
-            case 1:
-            case 3:
-            case 5:
-            case 7:
-            case 8:
-            case 10:
-            case 12: days = 31; break;
+            System.out.println("the number of the month can't be lower than 1 and higher than 12, try again:");
+            month = keyboard.nextInt();
+        }
+
+            switch (month) {
+
+                default:
+                    days = 0;
+                    break;
+                case 2:
+                    days = 28;
+                    break;
+                case 4:
+                case 6:
+                case 9:
+                case 11:
+                    days = 30;
+                    break;
+                case 1:
+                case 3:
+                case 5:
+                case 7:
+                case 8:
+                case 10:
+                case 12:
+                    days = 31;
+                    break;
             }
 
-        System.out.println("Number of days in month: " + days);
+            System.out.println("Number of days in month: " + days);
+
 
         keyboard.close();
     }
