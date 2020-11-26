@@ -13,3 +13,5 @@ i
 ,src/be/intecbrussel/hello/HelloWorldApp.java,4\9\49f84042eb3c73083a29691c3662d4dcfd26db63
 c
 3src/be/intecbrussel/exercise05_01/DataTypesApp.java,5\a\5a7a4d63c654342cb1c055a851db9ad6e90e2353
+a
+1src/be/intecbrussel/exercise05_04/Arithmetic.java,5\e\5ec81c5be4c40adcad89783701760762e948dce8
