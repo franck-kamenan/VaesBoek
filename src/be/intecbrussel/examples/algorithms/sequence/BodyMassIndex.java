@@ -1,4 +1,4 @@
-package be.intecbrussel.examples.algorithms.selection;
+package be.intecbrussel.examples.algorithms.sequence;
 
 import java.util.Scanner;
 
