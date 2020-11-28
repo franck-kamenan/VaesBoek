@@ -1,0 +1,20 @@
+
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(šôÈû8—ÑøËà.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8ÑÿÉËà.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8šÀ¾Ëà.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…Òá·8ä¼ìËà.
+€
+java:S14883"^Immediately return this expression instead of assigning it to the temporary variable "result".(¨öâŒøÿÿÿÿ8™½ÜËà.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”8ÑÿÉËà.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¦Ğ½şÿÿÿÿ8ÍÃêËà.
+{
+java:S1488'"^Immediately return this expression instead of assigning it to the temporary variable "result".(úõ¤8æ¿µËà.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8¡óŠËà.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”8§êËà.
+{
+java:S1488-"^Immediately return this expression instead of assigning it to the temporary variable "result".(ƒ‘å8™½ÜËà.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.( ŞÕšûÿÿÿÿ8Àø¹Ëà.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Ä”Ùûÿÿÿÿ8—ÑøËà.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Şçéøÿÿÿÿÿ8­ê¼Ëà.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8§Õ§Ëà.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8§ÔÉËà.

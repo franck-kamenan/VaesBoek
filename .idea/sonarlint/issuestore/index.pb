@@ -35,3 +35,7 @@ t
 Dsrc/be/intecbrussel/examples/algorithms/iteration/PancakesWhile.java,b\9\b9829db5792729d57002d42ae79a835bfb64e9d0
 r
 Bsrc/be/intecbrussel/examples/algorithms/iteration/PancakesFor.java,2\e\2e252a49dc4cdb0a66c812b28fb5203854da3261
+m
+=src/be/intecbrussel/examples/algorithms/sequence/Methods.java,4\b\4b4da1a06b17b4063c8b294d469fa21fcf68a327
+}
+Msrc/be/intecbrussel/examples/algorithms/sequence/MethodeZonderParameters.java,c\f\cff2d7f7b1dffbee32fdffac26f1a172aca17ad4
