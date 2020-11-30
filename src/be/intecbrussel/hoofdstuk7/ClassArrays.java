@@ -9,9 +9,9 @@ public class ClassArrays {
         numbers[1] = 3;
         numbers[2] = 6;
         numbers[3] = 8;
-        int[] SecondNumbers = {0, 1, 2, 3};
-        int[] ThirdNumbers;
-        ThirdNumbers = new int[] {0, 1, 2, 3};
+        int[] secondNumbers = {0, 1, 2, 3};
+        int[] thirdNumbers;
+        thirdNumbers = new int[] {0, 1, 2, 3};
 
         System.out.println(numbers[2]);
         System.out.println(numbers.length);

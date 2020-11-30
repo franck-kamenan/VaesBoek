@@ -1,6 +1,6 @@
-package be.intecbrussel;
+package be.intecbrussel.hoofdstuk7;
 
-public class MainTest {
+public class LookupTableSample {
 
     public static void main(String[] args) {
 
