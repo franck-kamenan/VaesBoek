@@ -55,3 +55,17 @@ Csrc/be/intecbrussel/examples/algorithms/sequence/BodyMassIndex.java,9\a\9a0788
 0src/be/intecbrussel/exercise06_01/RandomApp.java,f\d\fde960b144c915225d18fbcabfaaefb153b3ac43
 `
 0src/be/intecbrussel/exercise06_03/Opdracht3.java,b\f\bfd9368d1ba6c7620ed53d5c46c71b90a572bab0
+_
+/src/be/intecbrussel/hoofdstuk6/ClassEquals.java,4\8\480ca48080e9d7f8bfac0c45a9d686837729e381
+f
+6src/be/intecbrussel/hoofdstuk6/ClassStringBuilder.java,1\0\1063766e77ea12fdca72c809c1dd317c4324c044
+ˆ
+Xsrc/be/intecbrussel/hoofdstuk6/ConvertStringToStringBuilderAndStringBuilderToString.java,a\5\a546dd0e582bb7243ec528e25629a13eea003847
+]
+-src/be/intecbrussel/hoofdstuk6/Opdracht4.java,f\4\f493394f476dc46a99ff1260ef1f69d61af7c60b
+p
+@src/be/intecbrussel/hoofdstuk6/GetallenBijEenStringOptellen.java,2\c\2c3069ec70f2abbf88d3b734332457e8a8973e33
+ƒ
+Ssrc/be/intecbrussel/hoofdstuk6/ClassFormatterThatIsAlsoAStringOrAStringBuilder.java,1\c\1c1f5fb26c695eeeb822b67f0c60003c8d59167f
+]
+-src/be/intecbrussel/hoofdstuk6/Opdracht5.java,5\0\50c3ef08a8d363e7d5e0a471c6d87854621f7854
