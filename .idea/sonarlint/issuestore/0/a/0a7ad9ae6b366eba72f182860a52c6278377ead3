@@ -1,6 +1,6 @@
 
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÏˆÁùÿÿÿÿ8ÑúÌ¢à.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶¸şÏùÿÿÿÿ8ÚàÔ¡à.
 M
 java:S4524"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ8ì‡â¢à.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶¸şÏùÿÿÿÿ8ÚàÔ¡à.
 U	java:S106."9Replace this use of System.out or System.err by a logger.(çÈ¡8ì‡â¢à.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÏˆÁùÿÿÿÿ8ÑúÌ¢à.

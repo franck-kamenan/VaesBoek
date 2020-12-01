@@ -1,0 +1,13 @@
+
+c
+java:S1854"ARemove this useless assignment to local variable "secondNumbers".(ÿ¾òÿÿÿÿÿ8Ï¯üÅá.
+S
+java:S1481"1Remove this unused "thirdNumbers" local variable.(™÷„şÿÿÿÿ8³ëŠÊá.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ı±Éøÿÿÿÿ8ƒ‚ƒÆá.
+T
+java:S1481"2Remove this unused "secondNumbers" local variable.(ÿ¾òÿÿÿÿÿ8Ú¶ŠÊá.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’Ñàªùÿÿÿÿ8Õ¥òÅá.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢ÿšç8ËÎŠÆá.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ÄŸ“Æá.
+b
+java:S1854"@Remove this useless assignment to local variable "thirdNumbers".(Ä³Ñ¡ÿÿÿÿÿ8™“‹Êá.

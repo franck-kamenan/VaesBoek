@@ -1,0 +1,13 @@
+
+]
+java:S1854";Remove this useless assignment to local variable "Array3d".(½ß›èıÿÿÿÿ8ÛŞÉá.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÒõÆúÿÿÿÿ8 °ÅÉá.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ß›èıÿÿÿÿ8ô°äÉá.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Ã”…ªûÿÿÿÿ8ªëÑÉá.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8ÅßÒÉá.
+M
+java:S1481"1Remove this unused "thirdArray2d" local variable.(Ö†Æ,8²¬ßÉá.
+\
+java:S1854"@Remove this useless assignment to local variable "thirdArray2d".(Ö†Æ,8±ÏİÉá.
+N
+java:S1481",Remove this unused "Array3d" local variable.(½ß›èıÿÿÿÿ8ñÜäÉá.

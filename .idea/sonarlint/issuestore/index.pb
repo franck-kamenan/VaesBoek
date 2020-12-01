@@ -1,6 +1,4 @@
 
-M
-src/be/intecbrussel/Main.java,a\4\a4d70a98ff5714d34e53aaa47e12c8f43dc22a8d
 o
 ?src/be/intecbrussel/examples/algorithms/iteration/Pancakes.java,8\c\8ce1377ae01b97ef0a13de279fe1e0bd62a0b2d2
 r
@@ -69,3 +67,17 @@ p
 Ssrc/be/intecbrussel/hoofdstuk6/ClassFormatterThatIsAlsoAStringOrAStringBuilder.java,1\c\1c1f5fb26c695eeeb822b67f0c60003c8d59167f
 ]
 -src/be/intecbrussel/hoofdstuk6/Opdracht5.java,5\0\50c3ef08a8d363e7d5e0a471c6d87854621f7854
+]
+-src/be/intecbrussel/hoofdstuk7/Opdracht1.java,4\2\42f151d5d392077e21f299170f6f81f2fb99ea97
+_
+/src/be/intecbrussel/hoofdstuk7/SplitSample.java,0\5\058071892d73f17a9bcce853201190ef8b69bb3b
+]
+-src/be/intecbrussel/hoofdstuk7/Opdracht2.java,2\8\286292be6150b756f0c7a6a63e1f21624d445a81
+Q
+!src/be/intecbrussel/MainTest.java,6\d\6daf37cc04f80860046c027215634b2628d0f596
+c
+3src/be/intecbrussel/hoofdstuk7/ArraysVanArrays.java,c\0\c03b57072e97b146a473d1f4908ef4fff613e307
+_
+/src/be/intecbrussel/hoofdstuk7/ClassArrays.java,9\3\9388108da8a755d8abf8ad11912fa8866f0b0932
+e
+5src/be/intecbrussel/hoofdstuk7/LookupTableSample.java,7\3\7339f2cbc0eecad554a23a0230231b5eeb6edec8
