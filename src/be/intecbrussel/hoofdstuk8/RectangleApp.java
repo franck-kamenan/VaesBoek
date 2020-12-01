@@ -8,7 +8,21 @@ public class RectangleApp {
         Rectangle rect = new Rectangle();
         rect.width = 10;
         rect.height = 5;
-        System.out.println(rect.width);
-        System.out.println(rect.height);
+        rect.x = 3;
+        rect.y = 2;
+        System.out.println("width: " + rect.width);
+        System.out.println("height: " + rect.height);
+        System.out.println("position: " + rect.x + ", " + rect.y);
+
+        System.out.println();
+
+        Rectangle secondRect = new Rectangle();
+        secondRect.width = 1;
+        secondRect.height = 4;
+        secondRect.x = 6;
+        secondRect.y = 7;
+        System.out.println("width: " + secondRect.width);
+        System.out.println("height: " + secondRect.height);
+        System.out.println("position: " + secondRect.x + ", " + secondRect.y);
     }
 }

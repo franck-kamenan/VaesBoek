@@ -81,3 +81,9 @@ _
 /src/be/intecbrussel/hoofdstuk7/ClassArrays.java,9\3\9388108da8a755d8abf8ad11912fa8866f0b0932
 e
 5src/be/intecbrussel/hoofdstuk7/LookupTableSample.java,7\3\7339f2cbc0eecad554a23a0230231b5eeb6edec8
+^
+.src/be/intecbrussel/hoofdstuk7/AverageApp.java,9\2\92483deb2e061e64b70a1a684d5a5847757ebad1
+]
+-src/be/intecbrussel/hoofdstuk8/Rectangle.java,0\f\0f1b3e3e64e305ce26a37de7e88b17da7fb78679
+`
+0src/be/intecbrussel/hoofdstuk8/RectangleApp.java,c\5\c5af2c21a29162aaa213f5f914dbef2726a0b359
