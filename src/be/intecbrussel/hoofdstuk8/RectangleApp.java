@@ -1,5 +1,7 @@
 package be.intecbrussel.hoofdstuk8;
 
+import be.intecbrussel.MainTest;
+
 public class RectangleApp {
 
     public static void main(String[] args) {
@@ -23,5 +25,11 @@ public class RectangleApp {
         System.out.println(secondRect.getHeight());
         System.out.println(secondRect.getX());
         System.out.println(secondRect.getY());
+
+        System.out.println();
+
+        System.out.println(ClassKlassenvariabelen.ANGLES);
+        ClassKlassenvariabelen testy = new ClassKlassenvariabelen();
+        System.out.println(testy.ANGLES);
     }
 }

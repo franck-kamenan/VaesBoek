@@ -1,9 +1,5 @@
 
-o
-java:S1104"MMake x a static final constant or non-public and provide accessors if needed.(±Šõ¶ûÿÿÿÿ8µ»½ëá.
-o
-java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(ñ½8µ»½ëá.
-o
-java:S1104"MMake y a static final constant or non-public and provide accessors if needed.(ÔçÛşÿÿÿÿ8µ»½ëá.
-n
-java:S1104"QMake width a static final constant or non-public and provide accessors if needed.(øÂ½8µ»½ëá.
+e
+java:S2184<"HCast one of the operands of this multiplication operation to a "double".(ûÉÖ8£Ãø–â.
+e
+java:S2184A"HCast one of the operands of this multiplication operation to a "double".(ğƒ¾8Ÿğ“—â.
