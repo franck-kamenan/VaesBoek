@@ -31,5 +31,15 @@ public class RectangleApp {
         System.out.println(ClassKlassenvariabelen.ANGLES);
         ClassKlassenvariabelen testy = new ClassKlassenvariabelen();
         System.out.println(testy.ANGLES);
+
+        System.out.println();
+
+        ClassKlassenmethoden.classMethod();
+        ClassKlassenmethoden instance = new ClassKlassenmethoden();
+        instance.classMethod();
+        instance.instanceMethod();
+        System.out.println(ClassKlassenmethoden.classVariable);
+        System.out.println(instance.classVariable);
+        System.out.println(instance.instanceVariable);
     }
 }
