@@ -37,4 +37,29 @@ public class Rectangle {
 
         return height * width;
     }
+
+    public double getPerimeter() {
+
+        return 2 * (height + width);
+    }
+
+    public int getX() {
+
+        return x;
+    }
+
+    public int getY() {
+
+        return y;
+    }
+
+    public int getHeight() {
+
+        return height;
+    }
+
+    public int getWidth() {
+
+        return width;
+    }
 }

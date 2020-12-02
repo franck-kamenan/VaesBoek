@@ -11,5 +11,10 @@ public class RectangleApp {
         rect.setPosition(7, 9);
         double area = rect.getArea();
         System.out.println("The area is: " + area);
+        System.out.println(rect.getPerimeter());
+        System.out.println(rect.getWidth());
+        System.out.println(rect.getHeight());
+        System.out.println(rect.getX());
+        System.out.println(rect.getY());
     }
 }
