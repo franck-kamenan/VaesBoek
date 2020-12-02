@@ -14,5 +14,14 @@ public class RectangleApp {
         System.out.println(rect.getHeight());
         System.out.println(rect.getX());
         System.out.println(rect.getY());
+
+        System.out.println();
+
+        System.out.println(secondRect.getArea());
+        System.out.println(secondRect.getPerimeter());
+        System.out.println(secondRect.getWidth());
+        System.out.println(secondRect.getHeight());
+        System.out.println(secondRect.getX());
+        System.out.println(secondRect.getY());
     }
 }

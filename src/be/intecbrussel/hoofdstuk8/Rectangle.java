@@ -26,6 +26,7 @@ public class Rectangle {
 
     public Rectangle(Rectangle rect) {
 
+        this(rect.x, rect.y, rect.height, rect.width);
     }
 
     public void setPosition(int xpos, int ypos){
