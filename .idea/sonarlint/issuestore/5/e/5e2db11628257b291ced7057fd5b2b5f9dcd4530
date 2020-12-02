@@ -1,0 +1,15 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ8®›Íğá.
+b
+java:S1117"@Rename "privateNumber" which hides the field declared at line 7.(ãÚ·Úúÿÿÿÿ8ü§İğá.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ä¥ôÿüÿÿÿÿ8÷÷àğá.
+z
+java:S1104"XMake publicNumber a static final constant or non-public and provide accessors if needed.(ãş‚şşÿÿÿÿ8«”Éğá.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ãµúÿÿÿÿ8ˆŞğá.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ó£®E8÷÷àğá.
+a
+java:S1117"?Rename "publicNumber" which hides the field declared at line 6.(»‹­Åÿÿÿÿÿ8‘šÚğá.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Îİä>8ôÌÕğá.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®©ÈÕ8÷÷àğá.
+[
+java:S1117"9Rename "number" which hides the field declared at line 5.(¾¶ñ¢úÿÿÿÿ8ò×Éğá.

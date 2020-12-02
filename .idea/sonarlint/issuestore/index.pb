@@ -87,3 +87,5 @@ e
 -src/be/intecbrussel/hoofdstuk8/Rectangle.java,0\f\0f1b3e3e64e305ce26a37de7e88b17da7fb78679
 `
 0src/be/intecbrussel/hoofdstuk8/RectangleApp.java,c\5\c5af2c21a29162aaa213f5f914dbef2726a0b359
+[
++src/be/intecbrussel/hoofdstuk8/MyClass.java,5\e\5e2db11628257b291ced7057fd5b2b5f9dcd4530

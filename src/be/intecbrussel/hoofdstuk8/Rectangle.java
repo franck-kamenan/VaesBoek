@@ -9,8 +9,8 @@ public class Rectangle {
 
     public void setPosition(int xpos, int ypos){
 
-        this.x = xpos;
-        this.y = ypos;
+        x = xpos;
+        y = ypos;
     }
 
     public void setHeight(int height) {
@@ -31,5 +31,10 @@ public class Rectangle {
     public void setY(int y) {
 
         this.y = y;
+    }
+
+    public double getArea() {
+
+        return height * width;
     }
 }

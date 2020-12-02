@@ -9,5 +9,7 @@ public class RectangleApp {
         rect.width = 10;
         rect.height = 5;
         rect.setPosition(7, 9);
+        double area = rect.getArea();
+        System.out.println("The area is: " + area);
     }
 }
