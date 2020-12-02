@@ -17,6 +17,17 @@ public class Rectangle {
         setHeight(height);
     }
 
+    public Rectangle(int x, int y, int height, int width) {
+        this.x = x;
+        this.y = y;
+        this.height = height;
+        this.width = width;
+    }
+
+    public Rectangle(Rectangle rect) {
+
+    }
+
     public void setPosition(int xpos, int ypos){
 
         x = xpos;
