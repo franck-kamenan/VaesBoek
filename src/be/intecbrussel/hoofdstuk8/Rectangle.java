@@ -2,10 +2,20 @@ package be.intecbrussel.hoofdstuk8;
 
 public class Rectangle {
 
-    public int x;
-    public int y;
-    public int height;
-    public int width;
+    private int x;
+    private int y;
+    private int height;
+    private int width;
+
+    public Rectangle() {
+
+    }
+
+    public Rectangle(int height, int width) {
+
+        setWidth(width);
+        setHeight(height);
+    }
 
     public void setPosition(int xpos, int ypos){
 
