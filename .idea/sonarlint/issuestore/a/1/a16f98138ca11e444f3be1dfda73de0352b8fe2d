@@ -1,0 +1,9 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(•‰œËÿÿÿÿÿ8³þµšâ.
+N
+java:S1444",Make this "public static ANGLES" field final(ºêˆ‚þÿÿÿÿ8ï½¶šâ.
+t
+java:S1104"RMake ANGLES a static final constant or non-public and provide accessors if needed.(ºêˆ‚þÿÿÿÿ8ï½¶šâ.
+s
+java:S3008"QRename this field "ANGLES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºêˆ‚þÿÿÿÿ8ï½¶šâ.

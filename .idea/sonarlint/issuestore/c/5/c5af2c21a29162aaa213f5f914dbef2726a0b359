@@ -1,15 +1,32 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(„©ş©8üş–â.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÜúÜãşÿÿÿÿ8˜›Ç˜â.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(…•€Ò8ÏÄ—â.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(’Û‹‹8˜›Ç˜â.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡­­»øÿÿÿÿ8é¾‰ëá.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(€È×Š8ù‰¶˜â.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÃ§¢8˜›Ç˜â.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Šë¿œ8ÏÄ—â.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(çÍ±şÿÿÿÿ8˜›Ç˜â.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ò¡Æ˜â.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¦Üàşÿÿÿÿ8ÏÄ—â.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Şãûÿÿÿÿ8¢İ”—â.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(–¤…8ÏÄ—â.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÜŸê¢ûÿÿÿÿ8§ÔÉ˜â.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Âúêšâ.
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(‡­­»øÿÿÿÿ8é¾‰ëá.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Şãûÿÿÿÿ8¢İ”—â.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–¤…8ÏÄ—â.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çÍ±şÿÿÿÿ8˜›Ç˜â.
+W
+java:S2209!"5Change this instance-reference to a static reference.(¿˜ÕÓüÿÿÿÿ8Âúêšâ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÃ§¢8˜›Ç˜â.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÜúÜãşÿÿÿÿ8˜›Ç˜â.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ËÒ¸üÿÿÿÿ8¦ûšâ.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(âÌÕ¹8§‚‡›â.
+Q
+java:S1128"5Remove this unused import 'be.intecbrussel.MainTest'.(×…á?8Ü”¹šâ.
+X
+java:S2440 "6Remove this instantiation of "ClassKlassenvariabelen".(ÏÍÂòüÿÿÿÿ8Âúêšâ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Šë¿œ8ÏÄ—â.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’Û‹‹8˜›Ç˜â.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…•€Ò8ÏÄ—â.
+T	java:S106*"9Replace this use of System.out or System.err by a logger.(ÊÃƒR8À‰›â.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÜŸê¢ûÿÿÿÿ8§ÔÉ˜â.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¦Üàşÿÿÿÿ8ÏÄ—â.
+W
+java:S2209'"5Change this instance-reference to a static reference.(ÿŸæ–ıÿÿÿÿ8–§†›â.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¿˜ÕÓüÿÿÿÿ8Íö¨šâ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ø£œšâ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ò¡Æ˜â.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€È×Š8ù‰¶˜â.
+Q
+java:S2209*"5Change this instance-reference to a static reference.(ÊÃƒR8€€Š›â.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„©ş©8üş–â.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(¼éí£üÿÿÿÿ8ˆÛŠ›â.

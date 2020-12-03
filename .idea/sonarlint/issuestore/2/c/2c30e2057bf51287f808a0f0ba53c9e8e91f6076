@@ -1,0 +1,9 @@
+
+O
+java:S1444"3Make this "public static classVariable" field final(¥ĞÈX8Õî‚›â.
+y
+java:S1104"\Make instanceVariable a static final constant or non-public and provide accessors if needed.(ûÌÃş8£œ„›â.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ö¹§‘8ÈÎášâ.
+u
+java:S1104"YMake classVariable a static final constant or non-public and provide accessors if needed.(¥ĞÈX8Õî‚›â.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ö8‹–ãšâ.

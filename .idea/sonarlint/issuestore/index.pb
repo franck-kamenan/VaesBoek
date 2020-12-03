@@ -89,3 +89,7 @@ e
 0src/be/intecbrussel/hoofdstuk8/RectangleApp.java,c\5\c5af2c21a29162aaa213f5f914dbef2726a0b359
 [
 +src/be/intecbrussel/hoofdstuk8/MyClass.java,5\e\5e2db11628257b291ced7057fd5b2b5f9dcd4530
+j
+:src/be/intecbrussel/hoofdstuk8/ClassKlassenvariabelen.java,a\1\a16f98138ca11e444f3be1dfda73de0352b8fe2d
+h
+8src/be/intecbrussel/hoofdstuk8/ClassKlassenmethoden.java,2\c\2c30e2057bf51287f808a0f0ba53c9e8e91f6076
