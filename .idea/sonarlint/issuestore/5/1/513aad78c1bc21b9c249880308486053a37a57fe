@@ -1,8 +1,8 @@
 
 e
 java:S2184="HCast one of the operands of this multiplication operation to a "double".(ûÉÖ8ÌÀ Ââ.
+w	java:S116"VRename this field "DESCRIPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¿ÊÁùÿÿÿÿ8ÌÀ Ââ.
 C
 java:S1170"!Make this final field static too.(Å¿ÊÁùÿÿÿÿ8ÌÀ Ââ.
 e
 java:S2184B"HCast one of the operands of this multiplication operation to a "double".(ğƒ¾8ÌÀ Ââ.
-w	java:S116"VRename this field "DESCRIPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¿ÊÁùÿÿÿÿ8ÌÀ Ââ.

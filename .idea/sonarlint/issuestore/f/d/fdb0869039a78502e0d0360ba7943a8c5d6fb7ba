@@ -1,0 +1,26 @@
+
+R
+java:S1481
+"0Remove this unused "aByteObject" local variable.(å›Ë­ùÿÿÿÿ8¨Àï“ã.
+O
+java:S1481"2Remove this unused "aDoubleObject" local variable.(Ä‹Åş8¨Àï“ã.
+V
+java:S1481"4Remove this unused "characterObject" local variable.(¬Óéˆüÿÿÿÿ8¨Àï“ã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…»«©8¤ğ“ã.
+R
+java:S1481"0Remove this unused "aLongObject" local variable.(«Çìõÿÿÿÿÿ8¨Àï“ã.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¡Ä½@8”«ı“ã.
+S
+java:S1481"1Remove this unused "aShortObject" local variable.( ³¢şøÿÿÿÿ8¨Àï“ã.
+R
+java:S1481"5Remove this unused "bigIntegerObject" local variable.(éÄ¹’8¨Àï“ã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­©šïùÿÿÿÿ8˜‡Š”ã.
+P
+java:S1481"3Remove this unused "aBooleanObject" local variable.(®¤…œ8¨Àï“ã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼ÕŒÏøÿÿÿÿ8×Ü‡”ã.
+N
+java:S1481"1Remove this unused "aFloatObject" local variable.(¨—ªµ8¨Àï“ã.
+R
+java:S1481"5Remove this unused "bigDecimalObject" local variable.(ñŠø«8¨Àï“ã.
+T
+java:S1481"2Remove this unused "integerObject" local variable.(ö…’àøÿÿÿÿ8ÿ²ö“ã.

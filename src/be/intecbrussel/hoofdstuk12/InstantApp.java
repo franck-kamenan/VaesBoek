@@ -46,5 +46,12 @@ public class InstantApp {
         System.out.println(nowHere);
         System.out.println(nowLondon);
         System.out.println(nowSydney);
+
+        System.out.println();
+
+        Duration nowDuration = Duration.between(now, later);
+        System.out.println(nowDuration.getSeconds());
+        Period nowPeriod = Period.between(otherDate, nowDate);
+        System.out.println(nowPeriod);
     }
 }
