@@ -10,6 +10,7 @@ public class Square extends Rectangle9 {
 
     public Square() {
 
+        super();
     }
 
     public Square(int side, int x, int y) {

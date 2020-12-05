@@ -1,0 +1,13 @@
+
+x	java:S116	"\Rename this field "SECONDDESCRIPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ø«8âÒõÁâ.
+>
+java:S1170	"!Make this final field static too.(»ø«8¾¼ôÁâ.
+j
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(¥ƒ¡˜üÿÿÿÿ8ëØ´Ââ.
+>
+java:S1170"!Make this final field static too.(½È„²8Â’âÁâ.
+r	java:S116"VRename this field "DESCRIPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½È„²8Â’âÁâ.
+R
+java:S2387"5"DESCRIPTION" is the name of a field in "Rectangle9".(½È„²8¾¼ôÁâ.
+e
+java:S2184 "HCast one of the operands of this multiplication operation to a "double".(Şø“‚8åßÏÂâ.

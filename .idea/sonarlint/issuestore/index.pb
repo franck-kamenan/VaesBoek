@@ -93,3 +93,13 @@ j
 :src/be/intecbrussel/hoofdstuk8/ClassKlassenvariabelen.java,a\1\a16f98138ca11e444f3be1dfda73de0352b8fe2d
 h
 8src/be/intecbrussel/hoofdstuk8/ClassKlassenmethoden.java,2\c\2c30e2057bf51287f808a0f0ba53c9e8e91f6076
+Y
+)src/be/intecbrussel/hoofdstuk9/Owner.java,5\9\593acbe5e578878aaa54a75d5165e1926b75791f
+W
+'src/be/intecbrussel/hoofdstuk9/Pet.java,1\3\13c0373527c490bc4c1210882afacbe879699bf4
+^
+.src/be/intecbrussel/hoofdstuk10/SquareApp.java,0\5\0518e33f1f7d1f67fa6b291b67a216d25a7fd772
+[
++src/be/intecbrussel/hoofdstuk10/Square.java,8\2\822acc220bbe2d91dc923cef4652ee9b841f7015
+_
+/src/be/intecbrussel/hoofdstuk10/Rectangle9.java,5\1\513aad78c1bc21b9c249880308486053a37a57fe
