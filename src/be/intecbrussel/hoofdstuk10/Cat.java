@@ -24,4 +24,9 @@ public class Cat extends Animal {
 
         System.out.println("meow");
     }
+
+    public String toString() {
+
+        return "This is a Cat object.";
+    }
 }

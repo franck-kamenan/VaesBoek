@@ -24,5 +24,8 @@ public class AnimalApp {
         System.out.println(secondCat instanceof Animal);
         System.out.println(mySnake instanceof Animal);
         System.out.println(secondSnake instanceof Animal);
+
+        System.out.println(secondCat);
+        System.out.println(myCat);
     }
 }
