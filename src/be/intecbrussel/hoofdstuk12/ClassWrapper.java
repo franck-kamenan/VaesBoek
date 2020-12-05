@@ -1,7 +1,5 @@
 package be.intecbrussel.hoofdstuk12;
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.math.BigDecimal;
 import java.math.BigInteger;
 
