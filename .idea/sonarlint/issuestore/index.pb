@@ -119,3 +119,9 @@ a
 1src/be/intecbrussel/hoofdstuk12/ClassWrapper.java,f\d\fdb0869039a78502e0d0360ba7943a8c5d6fb7ba
 _
 /src/be/intecbrussel/hoofdstuk12/InstantApp.java,c\9\c9453c12047b1b28fc70dd65bb58af5ca0d42ea3
+g
+7src/be/intecbrussel/hoofdstuk13/InterfaceInterface.java,3\1\3102be2bd4629b97e6d0f70b178dcd5809d76265
+a
+1src/be/intecbrussel/hoofdstuk13/InterfaceApp.java,2\a\2a292e0fc554410baa69926017b5a42ba17b8759
+]
+-src/be/intecbrussel/hoofdstuk13/ImpClass.java,d\3\d37a0ca8ba19361e184656a25b0c65357b152d23
