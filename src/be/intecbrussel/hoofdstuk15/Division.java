@@ -18,7 +18,11 @@ public class Division {
 
             System.out.println("Invalid number");
             System.out.println(nfe.getMessage());
-            nfe.printStackTrace();
+        } catch (ArithmeticException ae) {
+
+            System.out.println("Division by 0.");
+            System.out.println(ae.getMessage());
         }
+        System.out.println("The End.");
     }
 }
