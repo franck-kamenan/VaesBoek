@@ -4,11 +4,10 @@ public class DuoApp {
 
     public static void main(String[] args) {
 
-        String s = "Hello World";
-        Integer i = 7;
+        Duo<String> sd = new Duo<String>("Hello ", "World");
+        Duo<Integer> id = new Duo<Integer>(7, 3);
 
-        Duo d = new Duo(s, i);
-        System.out.println(d.getFirst());
-        System.out.println(d.getSecond());
+        System.out.println(sd.getFirst() + sd.getSecond());
+        System.out.println(id.getFirst() + " and " + id.getSecond());
     }
 }

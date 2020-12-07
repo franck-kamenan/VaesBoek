@@ -1,39 +1,39 @@
 package be.intecbrussel.hoofdstuk17;
 
-public class Duo {
+public class Duo<E> {
 
-    private Object first;
-    private Object second;
+    private E first;
+    private E second;
 
-    public Duo(Object first, Object second) {
+    public Duo(E first, E second) {
 
         this.first = first;
         this.second = second;
     }
 
-    public Object getFirst() {
+    public E getFirst() {
 
         return first;
     }
 
-    public void setFirst(Object first) {
+    public void setFirst(E first) {
 
         this.first = first;
     }
 
-    public Object getSecond() {
+    public E getSecond() {
 
         return second;
     }
 
-    public void setSecond(Object second) {
+    public void setSecond(E second) {
 
         this.second = second;
     }
 
     public void swap() {
 
-        Object temp = second;
+        E temp = second;
         second = first;
         first = temp;
     }
