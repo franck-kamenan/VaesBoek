@@ -14,11 +14,11 @@ public class Division {
             int div = num / den;
             System.out.format("%d / %d= %d", num, den, div);
             keyboard.close();
-        } catch (Exception e) {
+        } catch (NumberFormatException|ArithmeticException t) {
 
             System.out.println("Invalid input!");
-            System.out.println(e.getMessage());
+            System.out.println(t.getMessage());
         }
-        System.out.println("The End.");
+        System.out.println("\nThe End.");
     }
 }
