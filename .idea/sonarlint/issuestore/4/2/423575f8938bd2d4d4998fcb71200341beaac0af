@@ -1,0 +1,11 @@
+
+L
+java:S1481"*Remove this unused "inner" local variable.(¾êî¯şÿÿÿÿ8Ê§ã¹ã.
+[
+java:S1854"9Remove this useless assignment to local variable "inner".(¾êî¯şÿÿÿÿ8Ê§ã¹ã.
+[
+java:S1854"9Remove this useless assignment to local variable "CONST".(÷»üÿÿÿÿ8«§â¹ã.
+d
+java:S2094	"BRemove this empty class, write its code or make it an "interface".(“»¶úÿÿÿÿ8«§â¹ã.
+L
+java:S1481"*Remove this unused "CONST" local variable.(÷»üÿÿÿÿ8«§â¹ã.
