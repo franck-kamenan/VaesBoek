@@ -17,6 +17,8 @@ public class Division {
         } catch (NumberFormatException nfe) {
 
             System.out.println("Invalid number");
+            System.out.println(nfe.getMessage());
+            nfe.printStackTrace();
         }
     }
 }
