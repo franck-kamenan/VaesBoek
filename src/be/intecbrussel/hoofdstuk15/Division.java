@@ -15,10 +15,6 @@ public class Division {
             int div = num / den;
             System.out.format("%d / %d= %d", num, den, div);
             return;
-        } catch (RuntimeException re) {
-
-            System.out.println("Error.");
-            System.out.println(re.getMessage());
         } finally {
             keyboard.close();
             System.out.println("\nThe End.");
