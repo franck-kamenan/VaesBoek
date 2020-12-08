@@ -40,5 +40,6 @@ public class AnimalApp {
         System.out.println(caligula.victims(3, 5));
         PoopingDog who = (String s) -> s + " is the pooping dog.";
         System.out.println(who.poop("ratanplan"));
+        
     }
 }
