@@ -41,5 +41,6 @@ public class RectangleApp {
         System.out.println(ClassKlassenmethoden.classVariable);
         System.out.println(instance.classVariable);
         System.out.println(instance.instanceVariable);
+
     }
 }

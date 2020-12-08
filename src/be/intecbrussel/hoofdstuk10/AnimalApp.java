@@ -32,5 +32,6 @@ public class AnimalApp {
 
         Dog totou = () -> System.out.println("woof");
         totou.makeNoise();
+        Dog felix = () -> System.out.println("woof");
     }
 }
