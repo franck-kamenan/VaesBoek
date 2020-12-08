@@ -9,6 +9,8 @@ public class TextApp {
 
         System.out.println("*** Words containing 'e' ***");
 
+        tp.printFilteredWords((String s) -> s.contains("e"));
+
         tp.printFilteredWords(new WordFilter() {
             @Override
             public boolean isValid(String s) {
@@ -18,6 +20,8 @@ public class TextApp {
 
         System.out.println("\n*** Long words ***");
 
+        tp.printFilteredWords((String s) -> s.length() > 7);
+
         tp.printFilteredWords(new WordFilter() {
             @Override
             public boolean isValid(String s) {
@@ -26,6 +30,8 @@ public class TextApp {
         });
 
         System.out.println("\n*** Words starting with 'a' ***");
+
+        tp.printFilteredWords((String s) -> s.startsWith("a"));
 
         tp.printFilteredWords(new WordFilter() {
             @Override
