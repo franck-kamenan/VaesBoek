@@ -27,5 +27,10 @@ public class AnimalApp {
 
         System.out.println(secondCat);
         System.out.println(myCat);
+
+        //Lambda
+
+        Dog totou = () -> System.out.println("woof");
+        totou.makeNoise();
     }
 }
