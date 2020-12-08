@@ -10,5 +10,13 @@ public class InterfaceApp {
         ImpClass impObject = new ImpClass();
         impObject.abstractMethod();
         impObject.defaultMethod();
+
+        //Lambda test
+        System.out.println("\n");
+        //impObject.abstractMethod(() -> "Lambda");
+
+        InterfaceInterface lamdaObject = () -> System.out.println("Lambda");
+        lamdaObject.abstractMethod();
+
     }
 }
