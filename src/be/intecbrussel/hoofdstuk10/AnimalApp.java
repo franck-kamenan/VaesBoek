@@ -36,5 +36,9 @@ public class AnimalApp {
         felix.howManyEyes(3);
         MyDog two = (String m, String j) -> System.out.println(m + " and " + j);
         two.names("Médor", "Judor");
+        RageDog caligula = (int a, int b) -> a + b;
+        System.out.println(caligula.victims(3, 5));
+        PoopingDog who = (String s) -> s + " is the pooping dog.";
+        System.out.println(who.poop("ratanplan"));
     }
 }
