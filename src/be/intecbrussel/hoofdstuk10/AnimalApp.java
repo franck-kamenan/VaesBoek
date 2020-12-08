@@ -34,5 +34,7 @@ public class AnimalApp {
         totou.makeNoise();
         NukeDog felix = (int e) -> System.out.println("He has " + e + " eyes.");
         felix.howManyEyes(3);
+        MyDog two = (String m, String j) -> System.out.println(m + " and " + j);
+        two.names("Médor", "Judor");
     }
 }
