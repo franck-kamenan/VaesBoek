@@ -155,3 +155,9 @@ a
 .src/be/intecbrussel/hoofdstuk14/StaticApp.java,8\2\822e906807af857c819f80ab4b7d71d5caa382ca
 e
 5src/be/intecbrussel/hoofdstuk14/StaticOuterClass.java,1\e\1e615cee82e1dc55e42c789ddc8f9f05aabed21a
+]
+-src/be/intecbrussel/hoofdstuk15/Division.java,5\8\5820aa02746fa5ef554e93559d3efd79c1523efd
+X
+(src/be/intecbrussel/hoofdstuk17/Duo.java,9\5\95f5a6d08da1613d5cd48ac18d4c5a19118b58af
+[
++src/be/intecbrussel/hoofdstuk17/DuoApp.java,9\5\95486346ad5a0f83889d6b41f6ed48ce89feb64b
