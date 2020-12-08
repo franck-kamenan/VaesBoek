@@ -15,5 +15,23 @@ public class TextApp {
                 return s.contains("e");
             }
         });
+
+        System.out.println("\n*** Long words ***");
+
+        tp.printFilteredWords(new WordFilter() {
+            @Override
+            public boolean isValid(String s) {
+                return s.length() > 7;
+            }
+        });
+
+        System.out.println("\n*** Words starting with 'a' ***");
+
+        tp.printFilteredWords(new WordFilter() {
+            @Override
+            public boolean isValid(String s) {
+                return s.startsWith("a");
+            }
+        });
     }
 }
